@@ -1,2 +1,7 @@
 streamlit
 groq
+duckduckgo-search
+pytz
+streamlit-mic-recorder
+Pillow
+gTTS
