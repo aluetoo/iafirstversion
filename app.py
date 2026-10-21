@@ -1,3 +1,2 @@
 import streamlit as st
-except Exception as e:
-    st.info("IA desactivée Visitez https://aluetoo.github.io/aluetoo-mobile/")
+st.info("🚨 IA désactivée. Visitez la version à jour : https://aluetoo.github.io/aluetoo-mobile/")
