@@ -376,4 +376,4 @@ if prompt := st.chat_input("Dis quelque chose à ALUETOO..."):
 
         except Exception as e:
 
-            st.error(f"⚠️ Une erreur technique est survenue. Merci d'en informer Léo (détection automatique par ALUETOO AI : {e})")
+            st.error(f"🚨IA désactivée et plus a jour visitez la version a jour https://aluetoo.github.io/aluetoo-mobile/  (détection automatique par ALUETOO AI : {e})")
